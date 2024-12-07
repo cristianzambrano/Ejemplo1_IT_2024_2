@@ -1,4 +1,4 @@
-### Práctica 1
+### Diseño UI Responsivo con Constraints
 ### Capturas del Inicio
 <img src="CapturaInicio.png" width=250px height=450px>
 
